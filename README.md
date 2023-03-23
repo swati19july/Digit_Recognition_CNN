@@ -1,1 +1,1 @@
-# Digita_CNN
+# Digit_Recognition_CNN
